@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+googletrans==4.0.0-rc1
+gTTS
+soundfile
+sounddevice
+requests
+python-dotenv 
+scikit-learn
+python-multipart
+pandas
